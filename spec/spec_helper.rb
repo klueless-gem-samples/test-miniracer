@@ -2,6 +2,7 @@
 
 require 'pry'
 require 'bundler/setup'
+require 'mini_racer'
 require 'test/miniracer'
 # require 'k_usecases'
 
