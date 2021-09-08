@@ -23,7 +23,6 @@ RSpec.describe "SimpleJs" do
       # ctx.eval 'var addAandB = (a, b) => a+b;'
       # puts ctx.eval 'addAandB(20,22)'
       expect(ctx.eval 'math.wrap_my_name()').to eq('David')
-      
     end
 
     it 'run some ruby data inside javascript' do
