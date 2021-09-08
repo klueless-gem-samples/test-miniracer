@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'mini_racer', '~> 0.4.0'
+# gem 'mini_racer', '~> 0.4.0'
 
 # Specify your gem's dependencies in handlebars_helpers.gemspec
 gemspec

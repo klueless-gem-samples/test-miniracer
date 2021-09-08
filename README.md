@@ -2,6 +2,21 @@
 
 > Test Miniracer provides a test harness for exploring the miniracer gem
 
+## Sean ToDo
+
+- Create HTML File
+- emmet, html:5, install the extension using VSCode shift+command+x
+- Emet a new HTML File
+- Run a liveserver (VSCode extension)
+- Add a script to handlebars JS (find on cdn)
+- Add some script, see screen shot, but I found this on github
+- [Handlebars JS](https://github.com/helpers/handlebars-helpers)
+- Add div using emmet
+  - div#xmen
+  - var d1 = document.getElementById('one');
+
+![](./sample1.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
