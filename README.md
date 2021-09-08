@@ -26,16 +26,23 @@ gem install test-miniracer
 
 ### Main Story
 
-
+As a Developer, I need to workout how the miniracer gem works, so I can implement javascript engine in ruby
 
 See all [stories](./STORIES.md)
-
 
 ## Usage
 
 See all [usage examples](./USAGE.md)
 
+### Basic Example
 
+#### Basic example
+
+Description for a basic example to be featured in the main README.MD file
+
+```ruby
+class SomeRubyBySean; end
+```
 
 ## Development
 
@@ -45,7 +52,7 @@ Checkout the repo
 git clone klueless-io/test-miniracer
 ```
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. 
+After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests.
 
 You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
